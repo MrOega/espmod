@@ -1,0 +1,7 @@
+{
+  "required": false,
+  "package": "com.espmod.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "client": ["CameraMixin"],
+  "injectors": { "defaultRequire": 0 }
+}

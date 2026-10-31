@@ -1,0 +1,9 @@
+{
+  "key.category.espmod.main": "ESP Mod",
+  "key.espmod.menu": "Open Menu",
+  "key.espmod.fullbright": "Toggle Fullbright",
+  "key.espmod.block_esp": "Toggle Block ESP",
+  "key.espmod.player_esp": "Toggle Player ESP",
+  "key.espmod.entity_esp": "Toggle Entity ESP",
+  "key.espmod.freecam": "Toggle Freecam"
+}

@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "id": "espmod",
+  "version": "${version}",
+  "name": "ESP Mod",
+  "description": "Fullbright, Block ESP, Player ESP en Entity ESP (client-side).",
+  "authors": ["jij"],
+  "license": "MIT",
+  "environment": "client",
+  "entrypoints": {
+    "client": ["com.espmod.EspMod"]
+  },
+  "mixins": ["espmod.mixins.json", "espmod.freecam.mixins.json"],
+  "depends": {
+    "fabricloader": ">=0.18.0",
+    "minecraft": "~1.21.11",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}
